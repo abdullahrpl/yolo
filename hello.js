@@ -4,3 +4,7 @@ const were = 123
 // console.log(were);
 
 // IM DO SOME TO GET PAIR-EXTRADIANIRE BADGE
+const hahhah = [
+    111,
+    1121
+]
